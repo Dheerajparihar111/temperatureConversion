@@ -1,3 +1,5 @@
+package temperatureConversion;
+
 import java.util.Scanner;
 public class kelvinToCelsius {
     static void main(String[] args) {
@@ -5,8 +7,8 @@ public class kelvinToCelsius {
         for (int i=0;i<5;i++){
             System.out.println("Enter the temperature");
             int kelvin =input.nextInt();
-            float value = 273.15f;
-            System.out.println("the temperature is = "+(kelvin-value)+"c");//conversion kelvin -(273.15)=celsius
+            float valuekc = 273.15f;
+            System.out.println("the temperature is = "+(kelvin-valuekc)+"c");//conversion kelvin -(273.15)=celsius
 
         }
 

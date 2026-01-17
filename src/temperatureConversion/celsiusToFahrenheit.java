@@ -1,3 +1,5 @@
+package temperatureConversion;
+
 import java.util.Scanner;
 
 public class celsiusToFahrenheit {
