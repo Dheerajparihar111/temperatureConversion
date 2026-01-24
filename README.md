@@ -63,7 +63,9 @@ Conditional statements / methods
 Clone the repository:
 
 git clone https://github.com/Dheerajparihar111/temperatureConversion.git
+<img width="1917" height="998" alt="temperature conversions output2 images" src="https://github.com/user-attachments/assets/7acbd6d3-740d-435b-93e3-2b09a9b01d1a" />
 
+<img width="1912" height="962" alt="temperature conversions output images" src="https://github.com/user-attachments/assets/cc1079cc-0e6f-4e9a-ae51-8e2158aadcae" />
 
 Open the project in any Java-supported IDE (Eclipse, IntelliJ IDEA, VS Code, etc.).
 
